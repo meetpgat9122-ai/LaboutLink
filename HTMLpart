@@ -1,0 +1,51 @@
+# LabourLink – LinkedIn for Unskilled Workers
+
+LabourLink is a full-stack web application designed to bridge the gap between local customers and blue-collar workers such as electricians, plumbers, painters, carpenters, and construction laborers.
+
+## Problem Statement
+
+In many parts of India, customers spend significant time searching for workers through labor chowks, personal contacts, and bargaining. Similarly, workers spend hours waiting for job opportunities without any guarantee of finding work.
+
+## Solution
+
+LabourLink provides a digital platform where workers can create professional profiles showcasing:
+
+* Skills and expertise
+* Work experience
+* Work images and proof
+* Customer ratings and reviews
+* Availability status
+* Location information
+
+Customers can search, filter, and connect with suitable workers directly based on their requirements.
+
+## Key Features
+
+* Worker profile management
+* Ratings and reviews system
+* Online/Offline availability status
+* Search and filter functionality
+* Secure authentication
+* Location-based worker discovery
+* Responsive user interface
+
+## Tech Stack
+
+Frontend: React.js, HTML, CSS, JavaScript
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JWT
+
+Version Control: Git & GitHub
+
+## Future Enhancements
+
+* Real-time chat
+* Voice-based search
+* Multi-language support
+* Worker verification system
+* Online payments
+* AI-powered worker recommendations
